@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "High Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.463574,
+                    43.646256
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trinity Bellwoods Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.413737,
+                    43.647226
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Christie Pits Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.420677,
+                    43.664482
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Queen's Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.392314,
+                    43.664328
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. James Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.373085,
+                    43.650728
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Soraauren Avenue Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.443328,
+                    43.648471
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
