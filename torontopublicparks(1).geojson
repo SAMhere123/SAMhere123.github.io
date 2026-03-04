@@ -1,1 +1,113 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"High Park","marker-color":"#4e342e","marker-size":"medium","land-area":"161 hectares","opentimes":"Mon-Sun open 24 hours"},"geometry":{"coordinates":[-79.463574,43.646256],"type":"Point"},"id":0},{"type":"Feature","properties":{"name":"Trinity Bellwoods Park","marker-color":"#4e342e","marker-size":"medium","land-area":"14.6 hectares","opentimes":"Mon-Sun 5am-11pm"},"geometry":{"coordinates":[-79.413737,43.647226],"type":"Point"},"id":1},{"type":"Feature","properties":{"name":"Christie Pits Park","marker-color":"#4e342e","marker-size":"medium","land-area":"8.9 hectares","opentimes":"Mon-Sun open 24 hours"},"geometry":{"coordinates":[-79.420677,43.664482],"type":"Point"},"id":2},{"type":"Feature","properties":{"name":"Queen's Park","marker-color":"#4e342e","marker-size":"medium","land-area":"20 hectares","opentimes":"Mon-Sun open 24 hours"},"geometry":{"coordinates":[-79.392314,43.664328],"type":"Point"},"id":3},{"type":"Feature","properties":{"name":"St. James Park","marker-color":"#4e342e","marker-size":"medium","land-area":"23 hectares","opentimes":"Mon-Sun open 24 hours"},"geometry":{"coordinates":[-79.373085,43.650728],"type":"Point"},"id":4},{"type":"Feature","properties":{"name":"Sorauren Avenue Park","marker-color":"#4e342e","marker-size":"medium","land-area":"2.42 hectares","opentimes":"Mon-Sun open 24 hours"},"geometry":{"coordinates":[-79.443328,43.648471],"type":"Point"},"id":5}]}
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "High Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium",
+                "land-area": "161 hectares",
+                "opentimes": "Mon-Sun open 24 hours"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.463574,
+                    43.646256
+                ],
+                "type": "Point"
+            },
+            "id": 0
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Trinity Bellwoods Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium",
+                "land-area": "14.6 hectares",
+                "opentimes": "Mon-Sun 5am-11pm"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.413737,
+                    43.647226
+                ],
+                "type": "Point"
+            },
+            "id": 1
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Christie Pits Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium",
+                "land-area": "8.9 hectares",
+                "opentimes": "Mon-Sun open 24 hours"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.420677,
+                    43.664482
+                ],
+                "type": "Point"
+            },
+            "id": 2
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Queen's Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium",
+                "land-area": "20 hectares",
+                "opentimes": "Mon-Sun open 24 hours"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.392314,
+                    43.664328
+                ],
+                "type": "Point"
+            },
+            "id": 3
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St. James Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium",
+                "land-area": "23 hectares",
+                "opentimes": "Mon-Sun open 24 hours"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.373085,
+                    43.650728
+                ],
+                "type": "Point"
+            },
+            "id": 4
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sorauren Avenue Park",
+                "marker-color": "#4e342e",
+                "marker-size": "medium",
+                "land-area": "2.42 hectares",
+                "opentimes": "Mon-Sun open 24 hours"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.443328,
+                    43.648471
+                ],
+                "type": "Point"
+            },
+            "id": 5
+        }
+    ]
+}
